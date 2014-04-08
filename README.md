@@ -1,0 +1,4 @@
+easyadmin
+=========
+
+Simple Admin CodeIngniter
